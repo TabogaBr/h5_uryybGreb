@@ -137,7 +137,8 @@ $ sudo apt-get -y install gnupg
 ```
 
 ## GnuPG Key Generation
-First, we must generate a key pair.
+First, we must generate two key pairs.
+One for the encryption [E] and one for the signatures and certificates [SC].
 ```bash
 $ gpg --full-generate-key
 ```
