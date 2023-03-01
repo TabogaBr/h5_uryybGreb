@@ -3,6 +3,7 @@
 - [1password - Explaination](#1password---explaination)
 - [1password - How to use](#1password---how-to-use)
 - [Message encryption and decryption](#message-encryption-and-decryption)
+- [Sources](#sources)
 
 # Schneier 2015: Applied Cryptography
 We always have to think about the entire system, not just the cryptography. We have to be sure that the entire system is secure.
@@ -252,3 +253,10 @@ The result is:
 ```bash
 HelloWorld
 ```
+
+# Sources
+
+- https://support.1password.com/strong-account-password/
+- https://1password.com/security/
+- https://gnupg.org/documentation/index.html
+- https://grimoire.carcano.ch/blog/a-quick-easy-yet-comprehensive-gpg-tutorial/
